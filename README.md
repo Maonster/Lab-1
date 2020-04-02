@@ -7,6 +7,3 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 >_"Time is like water in a sponge. There is always something if you really squeeze it."_ - Xun Lu
 [Source](https://en.wikipedia.org/wiki/Lu_Xun)
-
-> _“I would sooner be a foreigner in Spain than in most countries. How easy it is to make friends in Spain!”_ – George Orwell
-[source](https://takelessons.com/blog/best-travel-quotes-z03)
