@@ -14,4 +14,5 @@ x <- 10
 ```
 
 This is an `inline` code.
-[photoshopped combo of a bird and a baboon](https://bit.ly/2FJaRdb)
+
+![photoshopped combo of a bird and a baboon](https://bit.ly/2FJaRdb)
