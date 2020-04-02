@@ -13,4 +13,5 @@ Reasons:
 x <- 10
 ```
 
-Th is an `inline` code.
+This is an `inline` code.
+[photoshopped combo of a bird and a baboon](https://bit.ly/2FJaRdb)
